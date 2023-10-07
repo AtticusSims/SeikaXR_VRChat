@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "base.01": {
+      "version": "file:base.01",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.bocud.vrcapitools": {
       "version": "https://github.com/BocuD/VRChatApiTools.git?path=/Packages/com.bocud.vrcapitools",
       "depth": 0,
@@ -212,6 +218,12 @@
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
+    },
+    "com.vrchat.avatars": {
+      "version": "file:com.vrchat.avatars",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "com.vrchat.base": {
       "version": "file:com.vrchat.base",
