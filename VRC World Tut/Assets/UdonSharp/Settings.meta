@@ -1,8 +1,14 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:VRC World Tut/Assets/UdonSharp/Settings.meta
 guid: a35d8776575c80f468136c7cd4e5baeb
 folderAsset: yes
 DefaultImporter:
+========
+guid: 645a225573c1f4951bdaed35895d248d
+NativeFormatImporter:
+>>>>>>>> a6808e4b (222T068_Koyama シーン追加):VRC World Tut/Assets/UdonSharp/UdonSharpDataLocator 2.asset.meta
   externalObjects: {}
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
