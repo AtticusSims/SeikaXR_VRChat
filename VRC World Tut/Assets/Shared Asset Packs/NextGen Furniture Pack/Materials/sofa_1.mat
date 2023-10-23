@@ -9,7 +9,8 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: sofa_1
   m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: _LIGHTMAPPING_STATIC_LIGHTMAPS _UVSEC_UV1 _NORMALMAP _SPECGLOSSMAP
+  m_ShaderKeywords: _EMISSION _LIGHTMAPPING_STATIC_LIGHTMAPS _NORMALMAP _SPECGLOSSMAP
+    _UVSEC_UV1
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
