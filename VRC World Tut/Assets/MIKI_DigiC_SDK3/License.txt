@@ -1,0 +1,30 @@
+MIKI_DigiC_SDK3
+
+■内容
+SDK3で動作するデジタル風時計になります。
+※Publicでもクレジット等、不要で設置可能です。
+
+FBXの改変やマテリアルに別のテクスチャの割当等は自由にしていただいて構いません。
+特にLightマテリアルはEmissionの色を、Glassマテリアルはアルベドの色と透過度をワールドに応じて変更していただいた方が映えるかもしれません。
+
+■使用方法
+MIKI_DigiC_SDK3 > PrefabにあるDigitalClock_Miki_Xをヒエラルキーに配置してください。
+
+■必須Assets
+VRCSDK3 - World (https://www.vrchat.com/home/download)
+Udon Sharp (https://github.com/vrchat-community/UdonSharp)
+
+■ライセンス
+fontに以下のフリーフォントを使用しています。
+TRS Million(Released in 2020 under CC0 license.)
+(http://www.typodermicfonts.com/)
+
+NinePin Regular(個人・商用可)
+(https://www.1001fonts.com/ninepin-font.html#license)
+
+ScoreBoard(個人・商用可)
+(https://fontmeme.com/jfont/score-board-font/)
+
+7セグ・14セグフォント 「DSEG」(SIL Open Font License 1.1)
+(https://www.keshikan.net/fonts.html)
+
