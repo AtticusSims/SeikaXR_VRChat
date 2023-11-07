@@ -19,9 +19,7 @@ namespace UdonSharp.Examples.Utilities
         {
             foreach (GameObject toggleObject in toggleObjects)
             {
-                if (toggleObject != null) {
-                    toggleObject.SetActive(!toggleObject.activeSelf);
-                }
+                toggleObject.SetActive(!toggleObject.activeSelf);
             }
         }
     }
