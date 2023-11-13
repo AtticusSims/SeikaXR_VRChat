@@ -1359,6 +1359,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: iwaSync3-iwaSync3
       objectReference: {fileID: 0}
+    - target: {fileID: 7838308743574003663, guid: cfb16977acb70ad4fb0b35f95e6dc0a9,
+        type: 3}
+      propertyPath: serializedProgramAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: e4e68e925d5ea214f95b36cff5fdda01,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cfb16977acb70ad4fb0b35f95e6dc0a9, type: 3}
 --- !u!114 &1461507289325126443 stripped
